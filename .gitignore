@@ -132,3 +132,4 @@ dmypy.json
 .vscode
 example_*
 test_*
+cifar-10-image-classifier/data

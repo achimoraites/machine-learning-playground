@@ -1,2 +1,3 @@
-# supervised-learning
-Supervised learning projects
+# Machine Learning Playground
+
+Having fun with Machine learning
